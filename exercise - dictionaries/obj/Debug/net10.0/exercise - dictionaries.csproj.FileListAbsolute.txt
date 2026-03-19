@@ -1,0 +1,14 @@
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\bin\Debug\net10.0\exercise - dictionaries.exe
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\bin\Debug\net10.0\exercise - dictionaries.deps.json
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\bin\Debug\net10.0\exercise - dictionaries.runtimeconfig.json
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\bin\Debug\net10.0\exercise - dictionaries.dll
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\bin\Debug\net10.0\exercise - dictionaries.pdb
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\obj\Debug\net10.0\exercise - dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\obj\Debug\net10.0\exercise - dictionaries.AssemblyInfoInputs.cache
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\obj\Debug\net10.0\exercise - dictionaries.AssemblyInfo.cs
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\obj\Debug\net10.0\exercise - dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\obj\Debug\net10.0\exercise - dictionaries.dll
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\obj\Debug\net10.0\refint\exercise - dictionaries.dll
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\obj\Debug\net10.0\exercise - dictionaries.pdb
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\obj\Debug\net10.0\exercise - dictionaries.genruntimeconfig.cache
+C:\Users\viyash\source\repos\exercise - dictionaries\exercise - dictionaries\obj\Debug\net10.0\ref\exercise - dictionaries.dll
